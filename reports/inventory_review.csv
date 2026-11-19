@@ -1,0 +1,11 @@
+vendor,product,owner,kev_cves,ransomware_cves,latest_added,example_cve
+Microsoft,Windows,IT Operations,178,49,2026-10-13,CVE-2026-96951
+Microsoft,Exchange Server,IT Operations,17,13,2026-04-13,CVE-2023-21529
+Fortinet,FortiOS,Network Team,15,12,2026-07-27,CVE-2025-68686
+Ivanti,Connect Secure,Network Team,16,8,2026-10-30,CVE-2026-111357
+Atlassian,Confluence,Engineering,9,7,2024-01-24,CVE-2023-22527
+VMware,vCenter Server,IT Operations,10,3,2024-11-20,CVE-2024-38812
+Apache,Tomcat,Engineering,6,1,2026-08-04,CVE-2026-34486
+Google,Chromium,All Staff,66,0,2026-11-10,CVE-2026-125350
+Cisco,IOS XE,Network Team,26,0,2025-09-29,CVE-2025-20352
+Zoom,Zoom Client,All Staff,0,0,,
